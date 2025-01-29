@@ -23,6 +23,8 @@ pip install mlxtend tensorflow pandas numpy seaborn matplotlib plotly scikit-lea
 ## Dataset
 The dataset used in this project is loaded and preprocessed before training the neural network models. It undergoes feature scaling using `MinMaxScaler` and is split into training and testing sets using `train_test_split`.
 
+Link for the dataset - https://www.kaggle.com/datasets/shayanfazeli/heartbeat/data
+
 ## Exploratory Data Analysis (EDA)
 The project includes a detailed analysis of the dataset, utilizing:
 - **Seaborn** and **Matplotlib** for visualizations
