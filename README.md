@@ -1,8 +1,6 @@
 # ECGClassificationUsing_RNN_CNN_LSTM_GRU
 
 
-# Neural Network Deep Learning Project (NNDL_Project)
-
 ## Overview
 This project implements deep learning models using TensorFlow and Keras to analyze and predict outcomes based on a given dataset. It involves data preprocessing, exploratory data analysis (EDA), model training, and evaluation.
 
